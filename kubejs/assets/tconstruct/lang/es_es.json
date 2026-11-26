@@ -1,6 +1,29 @@
 {
-  "tooltip.tconstruct.raw_cobalt": "Disponible al llegar a la Luna.",
-  "tooltip.tconstruct.smeltery_controller": "Deshabilitado, usa una fundición en el capítulo 3.",
-
-  "porting_lib.stepHeight": "Altura de paso"
+  "advancements.tconstruct.foundry.alloyer.description":"",
+  "advancements.tconstruct.foundry.structure.description":"",
+  "advancements.tconstruct.smeltery.structure.description":"",
+  "advancements.tconstruct.smeltery.tinkers_anvil.description":"",
+  "advancements.tconstruct.world.blood_island.description":"",
+  "advancements.tconstruct.world.clay_island.title":"",
+  "advancements.tconstruct.world.sky_island.description":"",
+  "advancements.tconstruct.world.slime_sling.description":"",
+  "block.tconstruct.cobalt_ore":"",
+  "fluid.tconstruct.liquid_soul":"",
+  "item.tconstruct.ender_slime_grass_seeds":"",
+  "item.tconstruct.liquid_soul_bucket":"",
+  "material.tconstruct.calorite":"",
+  "material.tconstruct.calorite.flavor":"",
+  "material.tconstruct.desh.flavor":"",
+  "material.tconstruct.iron.encyclopedia":"",
+  "material.tconstruct.radiant":"",
+  "material.tconstruct.radiant.encyclopedia":"",
+  "material.tconstruct.radiant.flavor":"",
+  "material.tconstruct.shadow":"",
+  "material.tconstruct.shadow.flavor":"",
+  "modifier.tconstruct.pockets.description":"",
+  "modifier.tconstruct.tool_belt.description":"",
+  "porting_lib.stepHeight":"Altura de paso",
+  "recipe.tconstruct.modifier.netherite_requirements":"",
+  "tooltip.tconstruct.raw_cobalt":"Disponible al llegar a la Luna.",
+  "tooltip.tconstruct.smeltery_controller":"Deshabilitado, usa una fundición en el capítulo 3."
 }
