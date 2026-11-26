@@ -1,1 +1,14 @@
-{}
+{
+  "advancements.yttr.obtain_xl_iron_ingot.desc":"",
+  "block.yttr.continuous_platform":"",
+  "block.yttr.deepslate_gadolinite":"",
+  "block.yttr.gadolinite":"",
+  "block.yttr.polished_scorched_obsidian_holster_alive":"",
+  "block.yttr.raw_gadolinite_block":"",
+  "fluid.astraladditions.sputum":"",
+  "fluid.yttr.core_lava":"",
+  "item.yttr.raw_gadolinite":"",
+  "item.yttr.ultrapure_wolfram":"",
+  "tooltip.yttr.gadolinite":"",
+  "tooltip.yttr.yttrium_ingot":""
+}
