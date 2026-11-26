@@ -1,1 +1,6 @@
-{}
+{
+  "item.immersive_aircraft.engine":"",
+  "item.immersive_aircraft.propeller":"",
+  "item.immersive_aircraft.sail":"",
+  "tooltip.immersiveaircraft.nether_engine":""
+}
