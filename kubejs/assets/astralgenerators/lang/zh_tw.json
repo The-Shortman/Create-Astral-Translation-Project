@@ -1,1 +1,20 @@
-{}
+{
+  "custommachinery.astralgenerators.amalgamation_matrix":"",
+  "custommachinery.astralgenerators.amalgamation_matrix.text":"",
+  "custommachinery.astralgenerators.assembler":"",
+  "custommachinery.astralgenerators.assembler.text":"",
+  "custommachinery.astralgenerators.fluid_boiler":"",
+  "custommachinery.astralgenerators.fluid_boiler.text":"",
+  "custommachinery.astralgenerators.fusion_reactor":"",
+  "custommachinery.astralgenerators.fusion_reactor.text":"",
+  "custommachinery.astralgenerators.particle_accelerator":"",
+  "custommachinery.astralgenerators.particle_accelerator.text":"",
+  "custommachinery.astralgenerators.solid_boiler":"",
+  "custommachinery.astralgenerators.solid_boiler.text":"",
+  "custommachinery.astralgenerators.steam_turbine":"",
+  "custommachinery.astralgenerators.steam_turbine.text":"",
+  "fluid.astralgenerators.deuterium":"",
+  "fluid.astralgenerators.helium3":"",
+  "fluid.astralgenerators.steam":"",
+  "fluid.astralgenerators.tritium":""
+}
