@@ -1,6 +1,3 @@
 {
-  "block.reinfchest.gold_chest":"",
-  "block.reinfchest.iron_chest":"",
-  "container.reinfchest.goldChest":"",
-  "container.reinfchest.ironChest":""
+  "container.reinfchest.goldChest": ""
 }
