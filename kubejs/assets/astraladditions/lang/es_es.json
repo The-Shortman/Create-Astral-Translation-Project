@@ -1,3 +1,6 @@
 {
-  "tooltip.astraladditions.fragile_item": "Se rompe si se lleva en el inventario del jugador, ¡debe moverse con métodos logísticos!"
+  "item.astraladditions.fragile_item":"",
+  "item.astraladditions.fragile_item_2":"",
+  "item.astraladditions.fragile_item_3":"",
+  "tooltip.astraladditions.fragile_item":"Se rompe si se lleva en el inventario del jugador, ¡debe moverse con métodos logísticos!"
 }
