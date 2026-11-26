@@ -1,6 +1,7 @@
 {
-  "tooltip.yttr.gadolinite": "Disponible al llegar a Mercurio (capítulo 5).",
-  "tooltip.yttr.yttrium_ingot": "Disponible al llegar a Mercurio (capítulo 5).",
-
-  "block.yttr.polished_scorched_obsidian_holster_alive": "Funda viva de obsidiana chamuscada pulida"
+  "advancements.yttr.obtain_yttrium_ingot.desc":"",
+  "block.yttr.centrifuge":"",
+  "block.yttr.polished_scorched_obsidian_holster_alive":"Funda viva de obsidiana chamuscada pulida",
+  "tooltip.yttr.gadolinite":"Disponible al llegar a Mercurio (capítulo 5).",
+  "tooltip.yttr.yttrium_ingot":"Disponible al llegar a Mercurio (capítulo 5)."
 }
