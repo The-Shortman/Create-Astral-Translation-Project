@@ -1,1 +1,9 @@
-{}
+{
+  "item.create.brass_hand":"",
+  "item.create.integrated_circuit":"",
+  "item.create.lapis_sheet":"",
+  "tooltip.create.blaze_burner":"",
+  "tooltip.create.blaze_cake":"",
+  "tooltip.create.empty_blaze_burner":"",
+  "tooltip.create.mechanical_arm":""
+}
