@@ -1,1 +1,11 @@
-{}
+{
+  "block.dustrial_decor.cast_iron_balustrade":"",
+  "block.dustrial_decor.cast_iron_block":"",
+  "block.dustrial_decor.cast_iron_brick_slab":"",
+  "block.dustrial_decor.cast_iron_brick_stairs":"",
+  "block.dustrial_decor.cast_iron_brick_vertical_slab":"",
+  "block.dustrial_decor.cast_iron_bricks":"",
+  "block.dustrial_decor.cast_iron_pillar":"",
+  "block.dustrial_decor.engraved_cast_iron_block":"",
+  "item.dustrial_decor.cast_iron_billet":""
+}
